@@ -8,7 +8,6 @@ The provided dataset contains informaƟon about sales transacƟons on Amazon, in
 ID, date, status, fulfilment method, sales channel, product category, size, quanƟty, amount, shipping details,
 and more. The objecƟve is to conduct a comprehensive analysis of the data and extract acƟonable insights to
 support business decision-making.
-Datasets: hƩps://drive.google.com/file/d/1YrjYKtS1WHmINL6eafRsrDzrZaw2_WvX/view?usp=sharing
 
 Key ObjecƟves:
 1. Sales Overview: Understand the overall sales performance, trends, and paƩerns over Ɵme.
